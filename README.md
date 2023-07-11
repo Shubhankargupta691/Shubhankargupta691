@@ -12,7 +12,7 @@ All coding projects are built from the ground up, from planning and designing al
 <img src="https://komarev.com/ghpvc/?username=shubhankargupta691&label=Profile%20views&color=0e75b6&style=flat" alt="shubhankargupta691" />
 <a href="https://github.com/Shubhankargupta691?tab=followers">
 &nbsp;
-<a href="https://github.com/ForrestKnight?tab=followers">
+<a href="https://github.com/Shubhankargupta691?tab=followers">
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Shubhankargupta691?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 &nbsp;
 <a href="https://github.com/Shubhankargupta691?tab=repositories&sort=stargazers">
