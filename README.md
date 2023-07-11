@@ -37,7 +37,7 @@ All coding projects are built from the ground up, from planning and designing al
 <a href="https://twitter.com/https://twitter.com/shubhankar35722" target="blank" title="twitter"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/shubhankar35722" height="30" width="40" /></a>
 
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubhankar-gupta-aa8696235" target="blank" title="linkedin"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhankar-gupta-aa8696235" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubhankar-gupta-aa8696235" target="blank" title="linkedin"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 
 
 <a href="https://kaggle.com/https://www.kaggle.com/kedohav" target="blank" title="kaggle"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kedohav" height="30" width="40" /></a>
