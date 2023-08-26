@@ -22,7 +22,7 @@ All coding projects are built from the ground up, from planning and designing al
 
 ---
 
-- 🔭 I’m currently working on [Elixir Notes](https://github.com/Shubhankargupta691/Elixir-Notes.git)
+- 🔭 I’m currently working on [elixir-Hack](https://github.com/Shubhankargupta691/elixir-Hack.git)
 
 - 🌱 I’m currently learning **Data Science, Python**
 
