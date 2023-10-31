@@ -46,6 +46,9 @@ All coding projects are built from the ground up, from planning and designing al
 &nbsp;
 ---
 
+### Try Hack Me
+<img src="https://tryhackme-badges.s3.amazonaws.com/ShubhankarGupta.png" alt="TryHackMe">
+
 ### 🧰 Languages and Tools
 
 
